@@ -88,7 +88,7 @@ function App() {
 
               <CNavbarBrand style={{ width: '100%' }}>
                 <a style={{ display: 'flex', width: 'fit-content' }} href="/#/">
-                  <img alt="Logo" src="src/assets/core/spywolf.png" className="brand-logo h-lg-40px" />
+                  <img alt="Logo" src="https://darling-churros-4a5193.netlify.app/static/media/spywolf-reward-ad.e3b1a4eb.png" className="brand-logo h-lg-40px" />
                   <img className="brand-logo mobile" src={mobileLogo} alt="" />
                 </a>
                 <div className="togglers">
