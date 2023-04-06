@@ -56,6 +56,6 @@ export class AuditedToken{
         this.symbol = incomingToken.symbol;
         this.tag = incomingToken.tag;
 
-        this.tooltipText = 'Want to be a trusted project? Contact SpyWolf for an audit!'
+        this.tooltipText = 'Want to be a trusted project? Contact ChanGuard for an audit!'
     }
 }

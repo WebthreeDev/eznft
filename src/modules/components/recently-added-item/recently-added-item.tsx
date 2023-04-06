@@ -94,7 +94,7 @@ const RecentlyAddedItem: React.FC<{ token: FeaturedToken, imageLoading?: boolean
                 </span>
             </ReleaseContainer>
             <TrustLevelContainer>
-                <Popover className="tag" content={<span>Want to become a trusted project? Contact SpyWolf for an audit!</span>} >
+                <Popover className="tag" content={<span>Want to become a trusted project? Contact ChanGuard for an audit!</span>} >
                     <Tag
                         color={props.token.alldata?.tag === 'UNVERIFIED' ? 'red' : 'green'}
                     >

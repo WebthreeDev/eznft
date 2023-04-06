@@ -130,7 +130,7 @@ const Faq: React.FC = () => {
                             <p>We have a scam investigation pool platform coming out soon as well as a launchpad and an educational platform. All set to come out this year!</p>
                         </CollapsePanel>
                         <CollapsePanel className='text-gray-700 fw-bolder cursor-pointer mb-0' header="How do I buy SPY?" key="4">
-                            <p>You can currently buy $SPY on the PancakeSwap exchange. <a className="primary-link" href="https://pancakeswap.finance/swap?outputCurrency=0xC2D0f6b7513994A1Ba86CEf3AAc181a371A4CA0c" target={'__blank'}>
+                            <p>You can currently buy $SPY on the PancakeSwap exchange. <a className="primary-link" href="https://uniswap.org" target={'__blank'}>
                                 Click here
 
                             </a> to buy.</p>

@@ -278,7 +278,7 @@ const AddressInputComponent: React.FC<{ valid: any, valueChange }> = ({ valid, v
                     type='ghost' style={{ background: 'transparent !important' }}
                     loading={addressLoading} icon={<SearchOutlined />} > </Button>}
                 onKeyDown={handleSearchEnter}
-                placeholder="0xC2D0f6b7513994A1Ba86CEf3AAc181a371A4CA0c"
+                placeholder="Contract-Soon"
                 onPaste={searchTokenOrWalletOnPaste}
                 onChange={(e) => { valueChange(e.target.value) }}
                 onInput={validateInput}

@@ -195,7 +195,7 @@ const AuditForm: React.FC = () => {
             }
             {totalPrice > 0 &&
                 <Form.Item label={'Transaction Hash(txHash)'} name={'txHash'}  >
-                    <Input placeholder='0xC2D0f6b7513994A1Ba86CEf3AAc181a371A4CA0c'></Input>
+                    <Input placeholder='Contract-Soon'></Input>
                 </Form.Item>
             }
             <span>Once you submit your information, a team member will contact you to answer any questions you may have, finalize the payment and get started!

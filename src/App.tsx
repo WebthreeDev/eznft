@@ -154,7 +154,7 @@ function App() {
                   </Badge>
                 </CNavItem>
                 <CNavItem key="3">
-                  <CNavLink target='__blank' href="https://pancakeswap.finance/swap?outputCurrency=0xc2d0f6b7513994a1ba86cef3aac181a371a4ca0c">
+                  <CNavLink target='__blank' href="https://uniswap.org">
                     Buy $SPY
                   </CNavLink>
                 </CNavItem>

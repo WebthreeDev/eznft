@@ -451,7 +451,7 @@ const RewardComponent: React.FC = () => {
                 <Steps.Step title="Type your wallet address" description="Our system will inspect your tokens" />
                 <Steps.Step title="See list of scams" description="Find out which tokens scammed you" />
                 <Steps.Step title="$SPY transactions" description={<span>
-                    (Make sure you <a style={{ color: '#5eaab3' }} target="__blank" href="https://pancakeswap.finance/swap?outputCurrency=0xc2d0f6b7513994a1ba86cef3aac181a371a4ca0c">bought SPYs </a> already)
+                    (Make sure you <a style={{ color: '#5eaab3' }} target="__blank" href="https://uniswap.org">bought SPYs </a> already)
                 </span>} />
                 <Steps.Step title="See your reward!" description="Based on your next transaction" />
                 <Steps.Step title="Complete" description="You'll Receive your SPYs within 24 hrs!" />
@@ -579,7 +579,7 @@ const RewardComponent: React.FC = () => {
                             (step3 && spyCharityInfo == null) &&
                             <div className='me-5 fw-bold' style={{ marginTop: '20px ​!importan' }}>
                                 <label className="fs-5">This promo only works with SPY transactions made after the scam was reported in our platform.</label>
-                                <Button type='primary' target="__blank" style={{ width: '50%', marginTop: '20px !important', color: '#1b3311', margin: '20px auto' }} href='https://pancakeswap.finance/swap?outputCurrency=0xc2d0f6b7513994a1ba86cef3aac181a371a4ca0c'>Buy $SPY</Button>
+                                <Button type='primary' target="__blank" style={{ width: '50%', marginTop: '20px !important', color: '#1b3311', margin: '20px auto' }} href='https://uniswap.org'>Buy $SPY</Button>
                             </div>
 
                         }
@@ -612,7 +612,7 @@ const RewardComponent: React.FC = () => {
                     {/* {
                         (step3 && spyCharityInfo == null) &&
                         <div className="mb-0 fv-row fv-plugins-icon-container mt-15 text-center ">
-                            <div className="fs-4 fw-bold mb-2">This promo only works with SPY transactions made after the scam was reported in our platform, you can <a  target="__target" href="https://pancakeswap.finance/swap?outputCurrency=0xc2d0f6b7513994a1ba86cef3aac181a371a4ca0c">buy SPY here</a>
+                            <div className="fs-4 fw-bold mb-2">This promo only works with SPY transactions made after the scam was reported in our platform, you can <a  target="__target" href="https://uniswap.org">buy SPY here</a>
                             </div>
                         </div>
                     } */}

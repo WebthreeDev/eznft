@@ -15,7 +15,7 @@ const TokenSlideItem: React.FC<{ token: Partial<FeaturedToken>, logoSize?: strin
                 </div>
                 <div className="name text-dark fw-bolder  mb-1 fs-6">{props.token.name}</div>
             <div className="tag">
-                <Popover content={(props?.token?.scamReasonTooltip ? props?.token?.scamReasonTooltip : 'Want to be a trusted project? Contact SpyWolf for an audit!')}>
+                <Popover content={(props?.token?.scamReasonTooltip ? props?.token?.scamReasonTooltip : 'Want to be a trusted project? Contact ChanGuard for an audit!')}>
                     <Tag color={props.tagColor}>
                         {props.token.tag}
                     </Tag>
