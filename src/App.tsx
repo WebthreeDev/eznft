@@ -88,7 +88,7 @@ function App() {
 
               <CNavbarBrand style={{ width: '100%' }}>
                 <a style={{ display: 'flex', width: 'fit-content' }} href="/#/">
-                  <img alt="Logo" src="https://github.com/WebthreeDev/eznft/blob/main/Untitled%20Design%20(13).png" className="brand-logo h-lg-40px" />
+                  <img alt="Logo" src="https://raw.githubusercontent.com/WebthreeDev/eznft/main/Untitled%20Design%20(13).png" className="brand-logo h-lg-40px" />
                   <img className="brand-logo mobile" src={mobileLogo} alt="" />
                 </a>
                 <div className="togglers">
