@@ -17,12 +17,12 @@ const Faq: React.FC = () => {
             <div className="grid">
                 <div className="section">
                     <h2 className='section-title text-gray-800 fw-bolder mb-4'>
-                        About SpyWolf Network
+                        About ChainGuard Network
                     </h2>
 
                     <Collapse   ghost>
                         <CollapsePanel className='text-gray-700 fw-bolder cursor-pointer mb-0' header="What is the goal of this portal?" key="1">
-                            <p>SpyWolf Network aims to educate and help crypto investors during their
+                            <p>ChainGuard Network aims to educate and help crypto investors during their
                                 research process to avoid falling into the hands of crypto criminals.
                                 From weekly tips to exposing multi-token scams and even projects we consider trusted.
                                 Our full-time researchers will take care of all the due diligence for you!
@@ -65,7 +65,7 @@ const Faq: React.FC = () => {
 
                 <div className="section ">
                     <h2 className='section-title text-gray-800 fw-bolder mb-4'>
-                        Audits by SpyWolf
+                        Audits by ChainGuard
                     </h2>
 
                     <Collapse ghost>
@@ -78,7 +78,7 @@ const Faq: React.FC = () => {
 
                             </p>
                         </CollapsePanel>
-                        <CollapsePanel className='text-gray-700 fw-bolder cursor-pointer mb-0' header="What aspects of a project does SpyWolf review?" key="2">
+                        <CollapsePanel className='text-gray-700 fw-bolder cursor-pointer mb-0' header="What aspects of a project does ChainGuard review?" key="2">
                             <p>
                                 Our easy-to-read audit report contains every aspect of a project that will allow an investor to make an informed decision before investing.
                             </p>
@@ -106,7 +106,7 @@ const Faq: React.FC = () => {
                             </p>
                         </CollapsePanel>
                         <CollapsePanel className='text-gray-700 fw-bolder cursor-pointer mb-0' header="I'm ready to audit my project. How do I contact you?" key="4">
-                            <p>You can contact our team at audit@spywolf.co or by joining our <a className="primary-link" href="https://t.me/SpyWolfOfficial" target={'__blank'}>Telegram group.</a></p>
+                            <p>You can contact our team at audit@ChainGuard.co or by joining our <a className="primary-link" href="https://t.me/ChainGuardOfficial" target={'__blank'}>Telegram group.</a></p>
                         </CollapsePanel>
 
                     </Collapse>
@@ -141,18 +141,18 @@ const Faq: React.FC = () => {
 
                 <div className="section">
                     <h2 className='section-title text-gray-800 fw-bolder mb-4'>
-                        About SpyWolf
+                        About ChainGuard
                     </h2>
 
                     <Collapse ghost>
-                        <CollapsePanel className='text-gray-700 fw-bolder cursor-pointer mb-0' header="What is SpyWolf's background?" key="1">
-                            <p>SpyWolf is a team of crypto security experts that have been performing audits for projects for several months in order to ensure safety in the crypto space.
+                        <CollapsePanel className='text-gray-700 fw-bolder cursor-pointer mb-0' header="What is ChainGuard's background?" key="1">
+                            <p>ChainGuard is a team of crypto security experts that have been performing audits for projects for several months in order to ensure safety in the crypto space.
                             </p>
                             <p>
                                 Due to our experience identifying red flags and potential scams, we decided to start our own "safe space" for the community to seek help and learn how not to fall for scams while allowing them to invest in safer projects. After our channel grew significantly, we decided to scale our project to reach as many people as possible that could use all the help we were providing, while also providing some unique tools to help them invest safely.
                             </p>
                         </CollapsePanel>
-                        <CollapsePanel className='text-gray-700 fw-bolder cursor-pointer mb-0' header="What services does SpyWolf provide?" key="2">
+                        <CollapsePanel className='text-gray-700 fw-bolder cursor-pointer mb-0' header="What services does ChainGuard provide?" key="2">
                             <p>We provide the following services:
                             </p>
                             <p>
@@ -185,9 +185,9 @@ const Faq: React.FC = () => {
                             </a>.</p>
 
                         </CollapsePanel>
-                        <CollapsePanel className='text-gray-700 fw-bolder cursor-pointer mb-0' header="How can I learn more about SpyWolf?" key="4">
+                        <CollapsePanel className='text-gray-700 fw-bolder cursor-pointer mb-0' header="How can I learn more about ChainGuard?" key="4">
                             <p>You can visit our website at <a className="primary-link" href="" target={'__blank'}>
-                                spywolf.co
+                                ChainGuard.co
 
                             </a></p>
                         </CollapsePanel>

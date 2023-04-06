@@ -88,7 +88,7 @@ function App() {
 
               <CNavbarBrand style={{ width: '100%' }}>
                 <a style={{ display: 'flex', width: 'fit-content' }} href="/#/">
-                  <img alt="Logo" src="https://darling-churros-4a5193.netlify.app/static/media/spywolf-reward-ad.e3b1a4eb.png" className="brand-logo h-lg-40px" />
+                  <img alt="Logo" src="https://github.com/WebthreeDev/eznft/blob/main/Untitled%20Design%20(13).png" className="brand-logo h-lg-40px" />
                   <img className="brand-logo mobile" src={mobileLogo} alt="" />
                 </a>
                 <div className="togglers">
@@ -147,7 +147,7 @@ function App() {
                       {/*<CNavLink className="menu-item menu-lg-down-accordion me-lg-1 menu-link py-3 menu-title" target="_blank" active>*/}
                       {/*  Get Audit + KYC*/}
                       {/*</CNavLink>*/}
-                      <CNavLink target='__blank' href="https://t.me/Joe_SpyWolf">
+                      <CNavLink target='__blank' href="https://t.me/Joe_ChainGuard">
                         Get Audit + KYC
                       </CNavLink>
                     {/*</Link>*/}
@@ -170,17 +170,17 @@ function App() {
                 </CNavItem>
                 <div className="inline-icons" style={{ display: 'flex' }}>
                   <CNavItem key="5" className="social">
-                    <CNavLink href="https://twitter.com/SpyWolfNetwork" target='__blank'>
+                    <CNavLink href="https://twitter.com/ChainGuard" target='__blank'>
                       <FaTwitter color={'#a1a5b7'} fontSize={20} />
                     </CNavLink>
                   </CNavItem>
                   <CNavItem key="6" className="social">
-                    <CNavLink href="https://t.me/SpyWolfOfficial" target='__blank'>
+                    <CNavLink href="https://t.me/ChainGuard" target='__blank'>
                       <FaTelegram color={'#a1a5b7'} fontSize={20} />
                     </CNavLink>
                   </CNavItem>
                   <CNavItem key="7" className="social">
-                    <CNavLink href="https://spywolf.medium.com/" target='__blank'>
+                    <CNavLink href="https://ChainGuard.medium.com/" target='__blank'>
                       <FaMedium color={'#a1a5b7'} fontSize={20} />
                     </CNavLink>
                   </CNavItem>
@@ -201,7 +201,7 @@ function App() {
           <div className="container-xxl d-flex flex-column flex-md-row align-items-center justify-content-between">
             <div className="text-dark order-2 order-md-1">
               <span className="text-muted fw-bold me-1">© {moment().year()}</span>
-              <a href="https://spywolf.co" target="_blank" className="text-gray-800 text-hover-primary">SpyWolf</a>
+              <a href="https://ChainGuard.co" target="_blank" className="text-gray-800 text-hover-primary">ChainGuard</a>
             </div>
             <ul className="menu menu-gray-600 menu-hover-primary fw-bold order-1">
 
@@ -211,7 +211,7 @@ function App() {
                 </Link>
               </li>
               <li className="menu-item">
-                <a href="mailto:audit@spywolf.co" target="_blank" className="menu-link px-2">Contact Us</a>
+                <a href="mailto:audit@ChainGuard.co" target="_blank" className="menu-link px-2">Contact Us</a>
               </li>
             </ul>
           </div>
