@@ -62,11 +62,11 @@ export const HomeComponent: React.FC = () => {
         [
             {
                 src: cookiesaleBanner,
-                url: 'https://cookiesale.app/'
+                url: ''
             },
             {
                 src: xpad,
-                url: 'https://www.busdx.com/'
+                url: '/'
             }
         ]
     );
