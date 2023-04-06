@@ -36,7 +36,7 @@ export const Container = styled.div`
             grid-row:1/3;
             display: flex;
             align-items: center;
-                background: #eff2f5;
+                background: #8F9193;
                 border-radius: 6px;
                 overflow: hidden;
                 input{
@@ -46,7 +46,7 @@ export const Container = styled.div`
            
             }
             .ant-checkbox-inner{
-                background-color: #eff2f5;
+                background-color: #8F9193;
                 border: none;
                 padding: 11px;
         }
@@ -160,7 +160,7 @@ export const Container = styled.div`
       }
     }
     .ant-radio .ant-radio-inner{
-        background-color:#eff2f5 ;
+        background-color:#8F9193 ;
         border: none !important;
         width: 20px;
             height: 20px

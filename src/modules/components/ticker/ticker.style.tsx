@@ -4,7 +4,7 @@ import styled from 'styled-components';
 export const Container = styled.div`
     width: 100%;
     padding: 10px 0;
-  border-bottom: 1px solid #eff2f5;
+  border-bottom: 1px solid #8F9193;
   display: flex;
   align-items: center;
     .swiper-slide{

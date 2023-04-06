@@ -11,7 +11,7 @@ body .App {
   z-index: 99;
   position: sticky;
   top: 0;
-  border-bottom: 1px solid #eff2f5;
+  border-bottom: 1px solid #8F9193;
   // padding: 30px 0 40px 0;
   .container-fluid {
     max-width: 1320px;
@@ -43,12 +43,12 @@ body .App {
     }
 
     &:hover {
-      background: #eff2f5;
+      background: #8F9193;
       color: #5e6278;
       border-radius: 0.475em;
     }
     &.active {
-      background: #eff2f5;
+      background: #8F9193;
     }
   }
 }
