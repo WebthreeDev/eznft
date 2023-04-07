@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6e898dec.chunk.css",
+    "main.js": "/static/js/main.90940b81.chunk.js",
+    "main.js.map": "/static/js/main.90940b81.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7c8c074b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7c8c074b.js.map",
+    "static/css/2.8757a6bb.chunk.css": "/static/css/2.8757a6bb.chunk.css",
+    "static/js/2.65b915ea.chunk.js": "/static/js/2.65b915ea.chunk.js",
+    "static/js/2.65b915ea.chunk.js.map": "/static/js/2.65b915ea.chunk.js.map",
+    "static/js/3.320ebb33.chunk.js": "/static/js/3.320ebb33.chunk.js",
+    "static/js/3.320ebb33.chunk.js.map": "/static/js/3.320ebb33.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.8757a6bb.chunk.css.map": "/static/css/2.8757a6bb.chunk.css.map",
+    "static/css/main.6e898dec.chunk.css.map": "/static/css/main.6e898dec.chunk.css.map",
+    "static/js/2.65b915ea.chunk.js.LICENSE.txt": "/static/js/2.65b915ea.chunk.js.LICENSE.txt",
+    "static/media/banner-cookiesale.22d0141c.jpg": "/static/media/banner-cookiesale.22d0141c.jpg",
+    "static/media/mobile-logo.b2d9c757.svg": "/static/media/mobile-logo.b2d9c757.svg",
+    "static/media/no-photo.c5802b37.png": "/static/media/no-photo.c5802b37.png",
+    "static/media/r4b45e81.ea10823a.png": "/static/media/r4b45e81.ea10823a.png",
+    "static/media/spywolf-reward-ad.e3b1a4eb.png": "/static/media/spywolf-reward-ad.e3b1a4eb.png",
+    "static/media/xpad.446a8618.png": "/static/media/xpad.446a8618.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c8c074b.js",
+    "static/css/2.8757a6bb.chunk.css",
+    "static/js/2.65b915ea.chunk.js",
+    "static/css/main.6e898dec.chunk.css",
+    "static/js/main.90940b81.chunk.js"
+  ]
+}
