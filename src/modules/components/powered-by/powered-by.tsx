@@ -10,7 +10,7 @@ const PoweredBy: React.FC<{ company: string, logo?: string, link?: string }> = (
     const companyLogo: any = {
         'SpyWolf': Spywolflogo,
         'RugSeekers': 'https://img1.wsimg.com/isteam/ip/43e267af-5023-40d4-8922-4499b9dac11d/F0B2E632-9521-44A7-BED9-67016D5C6F61.png/:/rs=w:1160,h:1152',
-        'EagleEye': 'https://spywolf.co/demo/network/assets/media/projects/eagle.png'
+        'EagleEye': 'https://chain-guard.org/demo/network/assets/media/projects/eagle.png'
     }
 
     return <Container >
