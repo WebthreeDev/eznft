@@ -1,4 +1,3 @@
-import { FeaturedToken } from "../../home/models/featured-token";
 import { Currency, TokenGroup, Transfers } from "../models/dto/wallet.model";
 
 export function groupBy(arr: any, key: 'symbol') {
